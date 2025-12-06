@@ -9,7 +9,7 @@ export const resumeData = {
     tagline: "Building Interactive & Scalable Web Applications | Technical Head at ACM Student Chapter",
     bio: "Self-driven and detail-oriented Computer Engineering student with strong programming skills and hands-on experience in full-stack web development. Passionate about building interactive, scalable, and user-friendly applications. Seeking challenging opportunities to contribute technical expertise, creativity, and strong problem-solving mindset to real-world tech solutions.",
     objective: "3rd-year Computer Engineering student at SVKM's Institute of Technology, Dhule. Skilled in front-end and back-end web development with solid understanding of Data Structures, Algorithms, and software development lifecycle. Committed to continuous learning, collaboration, and delivering impactful results.",
-    resumeFile: "Nandini Jitendra Sonar Final Resume.docx",
+    resumeFile: "Nandini New Resume.docx",
     socialLinks: {
       github: "https://github.com/NandiniSonar248",
       linkedin: "https://www.linkedin.com/in/nandini-sonar-801849304",
