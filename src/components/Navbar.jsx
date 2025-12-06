@@ -68,7 +68,7 @@ const Navbar = ({ darkMode, toggleDarkMode }) => {
             <motion.a
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              href={`/${resumeData.personal.resumeFile}`}
+              href={`${import.meta.env.BASE_URL}${resumeData.personal.resumeFile}`}
               download="Nandini_Sonar_Resume.docx"
               className="px-4 py-2 bg-gradient-to-r from-green-500 to-teal-500 text-white rounded-full font-semibold shadow-md hover:shadow-lg transition-all flex items-center gap-2"
             >
